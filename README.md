@@ -1,2 +1,0 @@
-# spuksa
-my apppp
